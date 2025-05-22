@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 40px;
+}
+input, button {
+  padding: 8px;
+  font-size: 16px;
+}
+iframe {
+  margin-top: 20px;
+}
+
